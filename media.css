@@ -1,0 +1,18 @@
+@media screen and (max-width: 740px) {
+    
+    .main-content-image{
+        display: flex;
+        flex-direction: column-reverse;
+        align-items: center;
+    }
+    
+    .portfolio-image{
+        display:  none;
+    }
+
+    .portoflio-button{
+        align-items: center;
+        justify-content: center;
+        padding-top: 40px;
+    }
+}
